@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 4cf6b23f91dc8174cadd78314902f6b4
+timeCreated: 1466100561
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - target: {instanceID: 0}
+  - killEffect: {instanceID: 0}
+  - hitEffect: {instanceID: 0}
+  - scoreText: {instanceID: 0}
+  - healthBarColor: {fileID: 22428456, guid: d272cbda1a012204d869397bc3305dc4, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
